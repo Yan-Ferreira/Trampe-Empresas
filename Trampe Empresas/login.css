@@ -13,6 +13,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin-left: 7px;
+    margin-right: 7px;
 }
 
 .login {
@@ -48,19 +50,20 @@ input {
     height: 30px;
     font-size: 18px;
     max-width: 96%;
-    border: none;
+    border: solid 1px black;
 }
 
 .enter {
-    width: 100%;
+    width: 300px;
     border-radius: 8px;
     height: 40px;
     font-size: 20px;
     cursor: pointer;
-    border: none;
     display: flex;
     justify-content: center;
-    align-items: center;
+    margin: auto;
+    background-image: linear-gradient(#fafafa, #999);
+    border: solid 1px black;
 }
 
 .help {
