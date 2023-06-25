@@ -1,1 +1,0 @@
-# Trumpe-Empresas
